@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/wavs"/>
+    <qresource prefix="/images">
+        <file>Stopwatch128.png</file>
+        <file>MusicFolder64.png</file>
+    </qresource>
+</RCC>
